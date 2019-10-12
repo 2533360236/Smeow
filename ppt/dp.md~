@@ -1,8 +1,7 @@
 title: dp
 speaker: Smeow
 plugins:
-    - echarts
-	- mermaid
+    - katex
 
 <slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
 
