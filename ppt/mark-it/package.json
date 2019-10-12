@@ -1,0 +1,64 @@
+{
+  "_from": "mark-it",
+  "_id": "mark-it@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-BcLn3G/EgNVjIjpQTkU9vk5Ek4U=",
+  "_location": "/mark-it",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mark-it",
+    "name": "mark-it",
+    "escapedName": "mark-it",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/mark-it/-/mark-it-0.0.1.tgz",
+  "_shasum": "05c2e7dc6fc480d563223a504e453dbe4e449385",
+  "_spec": "mark-it",
+  "_where": "C:\\Program Files\\nodejs",
+  "author": {
+    "name": "Lucas Motta",
+    "email": "http://lucasmotta.com"
+  },
+  "bin": {
+    "mark-it": "./bin/mark-it"
+  },
+  "bugs": {
+    "url": "https://github.com/LeanMeanFightingMachine/mark-it/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colors": "~0.6.x",
+    "commander": "~2.0.x",
+    "fs-extra": "~0.6.x",
+    "glob-expand": "~0.0.x",
+    "html-minifier": "~0.5.x",
+    "marked": "~0.2.x"
+  },
+  "deprecated": false,
+  "description": "Simple tool to match patterns in your files and replace they with the content of another Markdown file instead.",
+  "engines": {
+    "node": ">= 0.10.x"
+  },
+  "homepage": "https://github.com/LeanMeanFightingMachine/mark-it#readme",
+  "keywords": [
+    "replace",
+    "markdown",
+    "content",
+    "string",
+    "html"
+  ],
+  "main": "./lib/main",
+  "name": "mark-it",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanMeanFightingMachine/mark-it.git"
+  },
+  "version": "0.0.1"
+}

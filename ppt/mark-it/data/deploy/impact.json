@@ -1,0 +1,68 @@
+{
+
+	"impact": [
+		{
+			"name": "Insight",
+			"id": "insight",
+			"text": "<h1>Hello I am a header</h1><p>And I am a paragraph &amp; I I &quot;could&quot; have loads of lines.</p><ul><li>This</li><li>Is</li><li>A</li><li>List</li></ul>"
+		},
+		{
+			"name": "Trash",
+			"id": "trash",
+			"text": "<p>Once a consumer finishes using your product, what happens to it next?</p><p>In natural systems, there is no waste since the waste from one organism is used as an input by other organisms.  With intelligent design and material choice, P&G products can also still be of use and value after consumers have finished using them. Our sustainability vision is for zero post-consumer waste to go to landfill; there are many different approaches we can use to make this happen including reuse, refill systems, recycling and by designing our end-of-life products to have value to someone else.</p>"
+		},
+		{
+			"name": "Materials",
+			"id": "material",
+			"text": "<p>Carefully selecting the best materials to go into a product and its packaging allows you to control the kind of environmental impacts your brand has before production begins.  Traditionally this was seen mainly as risk/reputation management.  Increasingly businesses are seeking partnerships with suppliers to develop revolutionary new materials, reduce resource use or to secure supply in the face of scarce resources and climate change.</p><p>The choice of materials also directly affects post-production impacts, i.e. how the product is used and what happens to it after use.</p>"
+		},
+		{
+			"name": "Consumer Use",
+			"id": "consumer",
+			"text": "<p>Innovation around how consumers use our products offers significant opportunities to deliver positive value and reduce material, water and energy intensity. 70% of P&G’s carbon footprint occurs during the consumer use phase, so encouraging more sustainable consumer behavior at home is central to addressing this.</p><p>Changing consumer behavior is challenging.  Research suggests that there are three key ingredients to do this.  First, look at making the new behavior highly desirable to motivate consumers to change the status quo.  Then make it as convenient and easy as possible.  Finally, provide a clear reward to incentivize consumers to adopt and sustain the new behavior.</p>"
+		},
+		{
+			"name": "Production",
+			"id": "production",
+			"text": "<h1>Hello I am a header</h1><p>And I am a <strong>paragraph</strong>, and I I could have loads of lines.</p><ul><li>This</li><li>Is</li><li>A</li><li>List</li></ul>"
+		},
+		{
+			"name": "Augmented Benefit",
+			"id": "augmented",
+			"text": "<p>Minimizing negative social and environmental impacts and being ‘less bad‘ is no longer sufficient.  Consumers want the brands they love to be doing ‘more good’. Increasingly the most forward-looking companies and strongest brands are proactively finding opportunities to step-change the amount of positive value they create for both people and the environment. The Augmented benefit represents the added societal benefit that comes along with addressing environmental issues.</p>"
+		}
+	],
+
+	"impact_obj": {
+		"insight" : {
+			"name": "Insight",
+			"image": "image.png",
+			"text": "Description"
+		},
+		"trash" : {
+			"name": "Trash",
+			"image": "image.png",
+			"text": "Description"
+		},
+		"material" : {
+			"name": "Materials",
+			"image": "image.png",
+			"text": "Description"
+		},
+		"consumer" : {
+			"name": "Consumer Use",
+			"image": "image.png",
+			"text": "Description"
+		},
+		"production" : {
+			"name": "Production",
+			"image": "image.png",
+			"text": "Description"
+		},
+		"augmented" : {
+			"name": "Augmented Benefit",
+			"image": "image.png",
+			"text": "Description"
+		}
+	}
+}

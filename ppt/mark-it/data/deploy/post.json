@@ -1,0 +1,5 @@
+{
+   "title": "Title of my post",
+   "image": "/img/png",
+   "content": "<h1>Hello world, I am a h1</h1><h2>And I am a h2</h2><p>You can also add <strong>paragraphs</strong>, <strong>lists</strong>, <strong>tables</strong>, etc… Basically everything that <a href='http://daringfireball.net/projects/markdown/'>Markdown</a> has to offer.</p><ul><li>Creating</li><li>lists</li><li>were</li><li>never</li><li>easier</li></ul>"
+}
