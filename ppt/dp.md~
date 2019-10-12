@@ -11,9 +11,3 @@ By Smeow {.text-intro}
 
 [:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost}
 
-<slide>
-
-$\Longleftrightarrow$
-
-$\sum_{i=0}^n{n\choose i}$
-
